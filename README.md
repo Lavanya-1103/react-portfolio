@@ -47,6 +47,8 @@ The generated `build` folder was tested locally before deployment.
 
 The project was uploaded to GitHub and deployed using Vercel.
 
+https://react-portfolio-ruddy-beta.vercel.app/
+
 ## Challenges and Solutions
 
 ### Challenge 1: Responsive Design
